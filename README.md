@@ -7,23 +7,21 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin)]([https://www.linkedin.com/in/ton-lien-linkedin/](https://www.linkedin.com/in/mohamed-mohyiddine-marzouk-3a313526a/)) 
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram)](https://www.instagram.com/mouhiddin_marzouk/)
 
-![Profile Header](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohamed-Mohyiddine-Marzouk&theme=github_dark)
-
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=Mohamed-Mohyiddine-Marzouk&label=Profile+Views&color=blueviolet&style=flat-square)
-![Followers](https://img.shields.io/github/followers/Mohamed-Mohyiddine-Marzouk?label=Followers&style=social)
-![Stars](https://img.shields.io/github/stars/Mohamed-Mohyiddine-Marzouk?label=Stars&color=gold&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=mohamedmohyddine&label=Profile+Views&color=blueviolet&style=flat-square)
+![Followers](https://img.shields.io/github/followers/mohamedmohyddine?label=Followers&style=social)
+![Stars](https://img.shields.io/github/stars/mohamedmohyddine?label=Stars&color=gold&style=flat-square)
 
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mohamed-Mohyiddine-Marzouk&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Mohyiddine-Marzouk&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohamedmohyddine&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedmohyddine&theme=dracula" />
 </div>
 
 ---
