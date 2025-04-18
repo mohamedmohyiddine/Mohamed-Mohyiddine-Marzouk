@@ -13,15 +13,15 @@
 
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=mohamedmohyddine&label=Profile+Views&color=blueviolet&style=flat-square)
-![Followers](https://img.shields.io/github/followers/mohamedmohyddine?label=Followers&style=social)
-![Stars](https://img.shields.io/github/stars/mohamedmohyddine?label=Stars&color=gold&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=mohamedmohyiddine&label=Profile+Views&color=blueviolet&style=flat-square)
+![Followers](https://img.shields.io/github/followers/mohamedmohyiddine?label=Followers&style=social)
+![Stars](https://img.shields.io/github/stars/mohamedmohyiddine?label=Stars&color=gold&style=flat-square)
 
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohamedmohyddine&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedmohyddine&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohamedmohyiddine&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedmohyiddine&theme=dracula" />
 </div>
 
 ---
